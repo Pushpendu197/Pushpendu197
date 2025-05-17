@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN**
-- 🌱 I’m currently learning **MERN STACK**
-- 💬 Ask me about **react,python and frontend technology stack**
+- 🔭 I’m currently working on **Generative Ai, MERN Stack , JAVA, Python, JavaScript**
+- 🌱 I’m currently learning **MERN STACK, Generative AI**
+- 💬 Ask me about **react,python,Java,JavaScript and frontend technology stack**
 - 📫 How to reach me **pushpendudey197@gmail.com**
 - ⚡ Fun fact-> **Did you know that GitHub, launched in 2008, was initially created as a side project by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett? They aimed to provide a platform for developers to share code and collaborate more efficiently. Today, GitHub hosts over 200 million repositories and is home to more than 83 million developers!**
 
